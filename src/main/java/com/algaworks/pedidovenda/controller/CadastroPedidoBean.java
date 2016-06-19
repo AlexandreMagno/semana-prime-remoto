@@ -59,7 +59,7 @@ public class CadastroPedidoBean implements Serializable {
 	public CadastroPedidoBean() {
 		limpar();
 	}
-	
+	//inicio
 	public void inicializar() {
 		if (this.pedido == null) {
 			limpar();
