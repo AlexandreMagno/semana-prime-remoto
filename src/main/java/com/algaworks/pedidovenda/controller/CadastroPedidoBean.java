@@ -55,7 +55,7 @@ public class CadastroPedidoBean implements Serializable {
 	private List<Usuario> vendedores;
 	
 	private Produto produtoLinhaEditavel;
-	
+	//oi?
 	public CadastroPedidoBean() {
 		limpar();
 	}
