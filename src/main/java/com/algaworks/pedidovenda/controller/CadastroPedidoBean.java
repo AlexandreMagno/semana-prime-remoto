@@ -55,11 +55,11 @@ public class CadastroPedidoBean implements Serializable {
 	private List<Usuario> vendedores;
 	
 	private Produto produtoLinhaEditavel;
-	private int o = 0;
+	
 	public CadastroPedidoBean() {
 		limpar();
 	}
-	//inicio
+	
 	public void inicializar() {
 		if (this.pedido == null) {
 			limpar();
