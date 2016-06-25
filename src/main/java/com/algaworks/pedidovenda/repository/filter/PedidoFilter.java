@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 import com.algaworks.pedidovenda.model.StatusPedido;
-
+//essa é uma classe de filtro
 public class PedidoFilter implements Serializable {
 
 	private static final long serialVersionUID = 1L;
